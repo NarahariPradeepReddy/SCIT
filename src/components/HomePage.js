@@ -7,6 +7,7 @@ import Slide2 from "../assets/slide 2.jpg";
 import Slide3 from "../assets/slide3.jpg";
 import Slide4 from "../assets/slide4.jpg";
 import Slide5 from "../assets/slide5.jpg";
+import Pradeep from "../assets/Pradeep.png"
 import { Box, Typography, Grid, Container, Button } from "@mui/material";
 import { useNavigate } from "react-router-dom";
 
@@ -349,12 +350,12 @@ function HomePage() {
               }}
             >
               <img
-                src="path-to-image.jpg"
+                src={Pradeep}
                 alt="Team Member 2"
                 style={{
                   width: "150px",
-                  height: "150px",
-                  borderRadius: "50%",
+                  height: "170px",
+                  borderRadius: "10%",
                   objectFit: "cover",
                 }}
               />
