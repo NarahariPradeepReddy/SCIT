@@ -64,6 +64,7 @@ function HomePage() {
           boxShadow: "0 4px 10px rgba(0,0,0,0.1)",
           borderRadius: "8px",
           overflow: "hidden",
+          height: "80vh",
         }}
       >
         <Slider {...settings}>
@@ -73,7 +74,7 @@ function HomePage() {
             style={{
               width: "100%",
               display: "block",
-              height: "auto",
+              height: "80vh",
               objectFit: "cover",
             }}
           />
@@ -83,7 +84,7 @@ function HomePage() {
             style={{
               width: "100%",
               display: "block",
-              height: "auto",
+              height: "80vh",
               objectFit: "cover",
             }}
           />
@@ -93,7 +94,7 @@ function HomePage() {
             style={{
               width: "100%",
               display: "block",
-              height: "auto",
+              height: "80vh",
               objectFit: "cover",
             }}
           />
@@ -354,16 +355,17 @@ function HomePage() {
                 alt="Team Member 2"
                 style={{
                   width: "150px",
-                  height: "170px",
-                  borderRadius: "10%",
+                  height: "155px",
+                  borderRadius: "50%",
                   objectFit: "cover",
+                  boxShadow: "1px 2px 10px 2px #3a3737"
                 }}
               />
               <Typography variant="h6" sx={{ fontWeight: "bold" }}>
-                Team Member 2
+                Pradeep Reddy
               </Typography>
               <Typography variant="body2" sx={{ color: "text.secondary" }}>
-                Role 2
+                Ops Manager
               </Typography>
             </Box>
           </Grid>
