@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SCIT/static/css/main.768de4d0.css",
+    "main.js": "/SCIT/static/js/main.2472018e.js",
+    "static/js/651.10347d30.chunk.js": "/SCIT/static/js/651.10347d30.chunk.js",
+    "static/media/slide3.jpg": "/SCIT/static/media/slide3.f613357bdf9227ccbe0f.jpg",
+    "static/media/slide5.jpg": "/SCIT/static/media/slide5.83b37b93c6620a0d43aa.jpg",
+    "static/media/slide 1.jpg": "/SCIT/static/media/slide 1.eae3c0c2c6ccfe9bb21c.jpg",
+    "static/media/slide4.jpg": "/SCIT/static/media/slide4.d876467245598edc9dee.jpg",
+    "static/media/SCITlogo.png": "/SCIT/static/media/SCITlogo.419027538e2ae37e2020.png",
+    "static/media/slide 2.jpg": "/SCIT/static/media/slide 2.2f9be4a941729ce9151e.jpg",
+    "static/media/slick.svg": "/SCIT/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/SCIT/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/SCIT/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/SCIT/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/SCIT/index.html",
+    "main.768de4d0.css.map": "/SCIT/static/css/main.768de4d0.css.map",
+    "main.2472018e.js.map": "/SCIT/static/js/main.2472018e.js.map",
+    "651.10347d30.chunk.js.map": "/SCIT/static/js/651.10347d30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.768de4d0.css",
+    "static/js/main.2472018e.js"
+  ]
+}
